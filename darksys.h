@@ -1,7 +1,7 @@
 #pragma once
 
 #include <stdint.h>
-#include "darken/uclist/uclist.h"
+#include "../glibs/uclist.h"
 
 typedef struct darksys
 {
